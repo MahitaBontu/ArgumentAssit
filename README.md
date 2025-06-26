@@ -1,11 +1,8 @@
-# ArgumentAssit
-
 
 # ArgumentAssist Streamlit App
 
-## Overview
 This is a Streamlit web app that uses a simple AI text generator (based on Hugging Face's `transformers` library) to assist with argument or essay writing.
-
+Initially for the purposes of debate but can be used for anything over a variety of topics, prompt stimulator, multiple purpose, analytical thinking 
 ---
 
 ## Prerequisites
